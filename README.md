@@ -60,7 +60,7 @@ End-to-End-Project-Using-Pipeline-Machinelearning/
 ## ⚙️ Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/qosain-bukhari/End-To-end-Project-Using-Pipeline-Machinelearning.git
+git clone https://github.com/QosainBukhari/End-To-end-Project-Using-Pipeline-Machinelearning.git
 cd End-To-end-Project-Using-Pipeline-Machinelearning
 ````
 
